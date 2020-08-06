@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287710936703",
+    "firebase_url": "https://jpmc-56dff.firebaseio.com",
+    "project_id": "jpmc-56dff",
+    "storage_bucket": "jpmc-56dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287710936703:android:7bd93072ee1396e0d1894a",
+        "android_client_info": {
+          "package_name": "com.example.jpmc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287710936703-g43mfu85b3bcmqo7ahof57kicmjs3ml7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTUF8YqQDgo3TXMo34_nQ66_58lP89FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287710936703-g43mfu85b3bcmqo7ahof57kicmjs3ml7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
